@@ -1,0 +1,20 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+We can easily identify what modifications were done to the program and in that way we can restore the app or program to a previous state.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It help me be a better programmer because I am able to compare old programs that I wrote and with that I can remember helpful pieces of codes that I can reuse in the future.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+It's good to be able to commit manually because you have a better organization of the code changes, whereas if the commit gets executed automatically maybe it will happen when there wasn't enough significant changes. A disadvantage of manual commits is that you can lose all your changes if, for any reason, you have a power supply fail, on the other hand, if you commit automatically you can be sure that the lost in the case of power issues will not be huge.  
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because Google Docs is mostly used to write independent documents whereas Git can be used when writing programs that involve many files like HTML, CSS, JavaScript files.
+
+How can you use the commands git log and git diff to view the history of files?
+We can use these commands to see the insertions and deletions of the code, in thay way we can identify what modifications have been made between the two commits.
+
+How might using version control make you more confident to make changes that could break something?
+It will help me advance secure when coding because now I know how to return to a previous state in case something went wrong.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like to use Git Bash for Android.
