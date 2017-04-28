@@ -3,3 +3,18 @@ We create a .git folder which is hidden. We need to create a repository to start
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area allows us to organize files before making a commit. It's different from the working directory or the repository because it's not something that remains present, once we commit we don't use the staging area anymore until the next commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can use the staging area as a checkpoint to verify is this is a correct time to save changes and commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches can be very useful when we try to modify code without affecting an original program. Some situations could be if we try to add or update a feature in a program, or if we decide to use this code as base for other programs.
+
+How do the diagrams help you visualize the branch structure?
+It's better to have a visual explanation than reading about the structure, because we can identify the path that the commits follow along the structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is the combination of those branches so we can have all the changes in just one place. It's represented in that way so that it could be easier to understand what a merger is.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If you merge manually, you are able to control what code you want to be together, whereas it takes more time. Automatic merging can save you some time but also can introduce some bugs if it's done incorrectly.
