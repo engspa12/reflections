@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+We can use a remote repository when we want to create a backup of our work so far or maybe when we want to share our progress with
+other people.
