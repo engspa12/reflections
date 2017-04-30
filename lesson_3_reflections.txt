@@ -7,3 +7,12 @@ Because in that way, you can avoid updating code that is not finished (could hav
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks allow you to make a copy of a repository on GitHub without affecting the original code and then you can work on this code. Clones are the similar to forks with the difference that can be done locally too, not only on GitHub. In other words, a fork is a clone. A branch is a path of commits, which allows you, for example, to make new changes to your code breaking from a common point.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can see the differences on both codes without being connected to the internet. We can work offline if necessary.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I think without Git or GitHub, organize our files would be harder as well as keeping a record of all the changes made to the code, and we had to be very careful when we made any modification. On the other hand, I don't see anything that can be easier without using Git or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Probably it would be better to make changes in a separate branch when you want to modify the original code for a new feature or to test something. The benefit of working in a separate branch is that you make sure that nothing in the original code will get broken while you develop the new feature. On the other hand, the benefit of working in a single branch is that you don't have to worry about merging branches. 
